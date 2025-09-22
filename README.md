@@ -1,0 +1,2 @@
+# learning_note_to_sentdex
+向sentdex学习python处理数据的机器学习方法
